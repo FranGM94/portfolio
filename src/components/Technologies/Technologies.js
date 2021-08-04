@@ -43,9 +43,8 @@ const Technologies = () =>  (
           <ListTitle>UX/UI</ListTitle>
           <ListParagraph>
             Experience with: <br />
-            Figma to CSS <br />
-            Sass <br /> 
-            Styled Components <br />
+            Figma<br />
+            Adobe Illustrator <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
